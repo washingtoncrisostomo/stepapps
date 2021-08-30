@@ -1,6 +1,6 @@
 # stepapps
 
-A new Flutter project.
+A simple app to list three most important soft skills and yours descriptions.
 
 ## Getting Started
 
